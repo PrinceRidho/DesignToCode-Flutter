@@ -1,6 +1,6 @@
-# jamming
+# Design To Code - Flutter
 
-A new Flutter project.
+Converting Design Project to Dart Code
 
 ## Getting Started
 
